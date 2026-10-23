@@ -10,7 +10,7 @@ This repository contains meticulously crafted AI Roleplay (Tavern/DSH) resource 
 
 ---
 
-## AI Usage
+## 🤖 AI Usage
 
 Minor Use
 
