@@ -49,7 +49,7 @@ Here is the current directory structure of the repository:
  ┃ ┗ 📂 Elysia
  ┃   ┣ 📂 generalEdition
  ┃   ┃ ┗ 📜 elysiaChara.json      # 🚧 WIP (Preset & WorldBook coming soon)
- ┃   ┗ 📂 gfSpEdition
+ ┃   ┗ 📂 gfSplEdition
  ┃     ┣ 📜 elysiaChara.json      # Girlfriend Edition Card
  ┃     ┣ 📜 elysiaPreset.json
  ┃     ┗ 📜 elysiaWorldBook.json
