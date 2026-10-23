@@ -10,6 +10,12 @@ This repository contains meticulously crafted AI Roleplay (Tavern/DSH) resource 
 
 ---
 
+## AI Usage
+
+Minor Use
+
+---
+
 ## 📚 Character List & Availability
 
 Here are the currently available character packs. Please check the folders for the specific editions.
