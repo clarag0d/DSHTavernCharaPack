@@ -125,8 +125,8 @@ Character Isolation: The World Books and Presets are specifically tailored for e
 
 ---
 
-## 💬 Feedback and Suggestions
-If you encounter any issues while using the tool (such as errors during file import, AI responses that don't meet expectations, or formatting breakages), or if you would like to suggest new characters or settings, please feel free to provide feedback by submitting an Issue!
+## 💬 Feedback & Suggestions
+If you encounter any issues while using the tool (such as errors during file import, AI responses that don't meet expectations, or formatting breakages), or if you would like to suggest new characters or settings, please feel free to provide feedback by submitting an **Issue**!
 
 When submitting, please include a screenshot of the problem (if possible) and specify the software you are using (e.g., DSH / Tavern). I will look into it and provide a fix as soon as I can.
 
