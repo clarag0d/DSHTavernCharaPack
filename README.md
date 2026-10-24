@@ -3,7 +3,7 @@
 ![Format](https://img.shields.io/badge/Format-SillyTavern%20V2-blue)
 ![Language](https://img.shields.io/badge/Language-EN%20%7C%20CN-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Age](https://img.shields.io/badge/Age-16%2B-red)
+![Age](https://img.shields.io/badge/Age-16%2B-orange)
 
 ---
 
