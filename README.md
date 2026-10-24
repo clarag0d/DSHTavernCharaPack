@@ -100,7 +100,7 @@ Instead, use poetic and literary metaphors (e.g., sanctuary, chalice, nectar, bl
 
 ## 🚀 How to Import & Use
 
-**Note**: Before using, you need prerequisite applications. **DSH Desktop** is recommended. Here are the download and installation steps: https://img.kookapp.cn/assets/2026-10/24/aPuWbSPaJ30nr02f.png
+**Note**: Before using, you need prerequisite applications. **DSH Desktop** is recommended. Here are the download and installation steps: https://cdn.discordapp.com/attachments/894586901154119723/1563394213096456262/aPuWbSPaJ30nr02f.png?ex=6add77d2&is=6adc2652&hm=67525a2c7ce078d66bef455c2969d1a5fb2524113d5e9a2f47c6333c626bdcf1&
 
 **For DSH (DeepSeek Harness)**
 
