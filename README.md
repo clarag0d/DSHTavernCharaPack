@@ -2,7 +2,6 @@
 
 ![Format](https://img.shields.io/badge/Format-SillyTavern%20V2-blue)
 ![Language](https://img.shields.io/badge/Language-EN%20%7C%20CN-green)
-![Status](https://img.shields.io/badge/Status-Active-success)
 ![Age](https://img.shields.io/badge/Age-16%2B-orange)
 
 ---
@@ -24,13 +23,13 @@ This repository contains meticulously crafted AI Roleplay (Tavern/DSH) resource 
 
 ## 🤖 AI Usage
 
-**Minor Use**: AI tools were used for minor assistance in this project (e.g., code formatting, basic JSON structuring, and README draft generation). However, the core character design, personality prompts, dynamic boundary logic, and dialogue examples were meticulously handcrafted and iterated by the human author, and the original AI output was deeply modified artificially.
+**Minor Use:** AI tools were used for minor assistance in this project (e.g., code formatting, basic JSON structuring, and README draft generation). However, the core character design, personality prompts, dynamic boundary logic, and dialogue examples were meticulously handcrafted and iterated by the human author, and the original AI output was deeply modified artificially.
 
 ---
 
 ## 📚 Character List & Availability
 
-Here are the currently available character packs.
+Here are the currently available character packs:
 
 | Character | Game | Language | Status |
 | :--- | :--- | :--- | :--- |
@@ -66,17 +65,17 @@ Here is the current directory structure of the repository:
 
 ## ✨ Features
 
-- 🌍 Bilingual Support: Provided in both Chinese (translation-cn) and English (translation-en).
+- 🌍 **Bilingual Support:** Provided in both Chinese (translation-cn) and English (translation-en).
 
-- 🎭 Strict Anti-OOC: Custom presets enforce speaking styles, prevent over-use of punctuation (like ♪), and strictly ban AI-like narration (no parentheses for actions).
+- 🎭 **Strict Anti-OOC:** Custom presets enforce speaking styles, prevent over-use of punctuation (like ♪), and strictly ban AI-like narration (no parentheses for actions).
 
-- 📚 Dedicated World Info: Background lore is precisely injected only when keywords are triggered.
+- 📚 **Dedicated World Info:** Background lore is precisely injected only when keywords are triggered.
 
-- 📦 Plug & Play: Ready to use out-of-the-box with DSH (DeepSeek Harness) and SillyTavern.
+- 📦 **Plug & Play:** Ready to use out-of-the-box with DSH (DeepSeek Harness) and SillyTavern.
 
-- 🛡️ Dynamic Boundary Lock: Defaults to a safe PG-13 companion. No forced romance. You control the pacing.
+- 🛡️ **Dynamic Boundary Lock:** Defaults to a safe PG-13 companion. No forced romance. You control the pacing.
 
-- 💸 Highly Cost-Effective: With DeepSeek API, you can chat for months for the price of a single month's subscription on other platforms (like c.ai).
+- 💸 **Highly Cost-Effective:** With DeepSeek API, you can chat for months for the price of a single month's subscription on other platforms (like c.ai).
 
 ---
 
@@ -90,14 +89,14 @@ Unlike platforms that block you with a strict filter, this preset features a Dyn
 
 - **Unfiltered / R-18 Mode**: When explicitly guided by the user, the boundaries completely fade. The preset fully supports mature interactions without any robotic warnings or red text.
 
-**Note**: To maintain the ultimate immersion and avoid triggering any underlying model safety filters, we strongly advise against using vulgar slang or explicit dirty words.
+**Note:** To maintain the ultimate immersion and avoid triggering any underlying model safety filters, we strongly advise against using vulgar slang or explicit dirty words.
 Instead, use poetic and literary metaphors (e.g., sanctuary, chalice, nectar, bloom, surrender). This not only perfectly matches characters' personas but also ensures a smooth, error-free experience.
 
 --
 
 ## 🚀 How to Import & Use
 
-**Note**: Before using, you need prerequisite applications. **DSH Desktop** is recommended. Here are the download and installation steps: https://cdn.discordapp.com/attachments/894586901154119723/1563410136326742056/image.png?ex=6add86a7&is=6adc3527&hm=1898226710dd799a89574bce033d3022d5e1916692b39c68d49c4f8d5eaf1616&
+**Note:** Before using, you need prerequisite applications. **DSH Desktop** is recommended. Here are the download and installation steps: https://cdn.discordapp.com/attachments/894586901154119723/1563410136326742056/image.png?ex=6add86a7&is=6adc3527&hm=1898226710dd799a89574bce033d3022d5e1916692b39c68d49c4f8d5eaf1616&
 
 **For DSH (DeepSeek Harness)**
 
@@ -118,9 +117,9 @@ Instead, use poetic and literary metaphors (e.g., sanctuary, chalice, nectar, bl
 ---
 
 ## ⚠️ Notes & Recommendations
-RP Mode: If you are using DSH, it is highly recommended to enable RP Mode (High-Risk Lockdown) to prevent prompt injections.
+**RP Mode:** If you are using DSH, it is highly recommended to enable RP Mode (High-Risk Lockdown) to prevent prompt injections.
 
-Temperature: A setting between `0.6 - 0.8` is recommended for these characters to avoid overly flowery or AI-like responses.
+**Temperature:** A setting between `0.6 - 0.8` is recommended for these characters to avoid overly flowery or AI-like responses.
 
 Character Isolation: The World Books and Presets are specifically tailored for each character. Please use them in separate chat sessions.
 
@@ -134,9 +133,9 @@ When submitting, please include a screenshot of the problem (if possible) and sp
 ---
 
 ## 📜 Credits & Copyright
-Characters: Honkai Impact 3rd & Honkai: Star Rail © miHoYo / COGNOSPHERE.
+**Characters:** Honkai Impact 3rd & Honkai: Star Rail © miHoYo / COGNOSPHERE.
 
-Disclaimer: This resource pack is for personal study, exchange, and AI roleplay purposes only. Commercial use is strictly prohibited. All character rights belong to miHoYo.
+**Disclaimer:** This resource pack is for personal study, exchange, and AI roleplay purposes only. Commercial use is strictly prohibited. All character rights belong to miHoYo.
 
 ---
 
