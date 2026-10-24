@@ -47,21 +47,18 @@ Here is the current directory structure of the repository:
 📦 Tavern-Character-Collection
  ┣ 📂 translation-cn
  ┃ ┗ 📂 Cyrene
- ┃   ┗ 📂 generalEdition
- ┃     ┣ 📜 cyreneChara.json       # Character Card
- ┃     ┣ 📜 cyrenePreset.json      # Preset
- ┃     ┗ 📜 cyreneWorldBook.json   # World Info / Lorebook
+ ┃   ┣ 📜 cyreneChara.json       # Character Card
+ ┃   ┣ 📜 cyrenePreset.json      # Preset
+ ┃   ┗ 📜 cyreneWorldBook.json   # World Info / Lorebook
  ┣ 📂 translation-en
  ┃ ┣ 📂 Cyrene
- ┃ ┃ ┗ 📂 generalEdition
- ┃ ┃   ┣ 📜 cyreneChara.json
- ┃ ┃   ┣ 📜 cyrenePreset.json
- ┃ ┃   ┗ 📜 cyreneWorldBook.json
+ ┃ ┃ ┣ 📜 cyreneChara.json
+ ┃ ┃ ┣ 📜 cyrenePreset.json
+ ┃ ┃ ┗ 📜 cyreneWorldBook.json
  ┃ ┗ 📂 Elysia
- ┃   ┗ 📂 generalEdition
- ┃     ┣ 📜 elysiaChara.json
- ┃     ┣ 📜 elysiaPreset.json
- ┃     ┗ 📜 elysiaWorldBook.json
+ ┃   ┣ 📜 elysiaChara.json
+ ┃   ┣ 📜 elysiaPreset.json
+ ┃   ┗ 📜 elysiaWorldBook.json
  ┗ 📜 README.md
 
 ```
