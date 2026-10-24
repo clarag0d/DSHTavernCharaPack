@@ -99,6 +99,9 @@ Instead, use poetic and literary metaphors (e.g., sanctuary, chalice, nectar, bl
 --
 
 ## 🚀 How to Import & Use
+
+**Note**: Before using, you need prerequisite applications. **DSH Desktop** is recommended. Here are the download and installation steps: https://img.kookapp.cn/assets/2026-10/24/aPuWbSPaJ30nr02f.png
+
 **For DSH (DeepSeek Harness)**
 
 1. Open the client and go to the Tavern / Plugin Management interface.
