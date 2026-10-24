@@ -83,11 +83,11 @@ Here is the current directory structure of the repository:
 
 Unlike platforms that block you with a strict filter, this preset features a Dynamic Boundary System.
 
-- **Default State (PG-13)**: The character acts as a respectful, platonic companion. She will NOT initiate romance or mature scenarios on her own. (Fully safe for SFW or underage users).
+- **Default State (PG-13):** The character acts as a respectful, platonic companion. She will NOT initiate romance or mature scenarios on her own. (Fully safe for SFW or underage users).
 
-- **Escalation Trigger**: ONLY when the user explicitly flirts, confesses, or initiates physical intimacy, will she transition to Lover mode.
+- **Escalation Trigger:** ONLY when the user explicitly flirts, confesses, or initiates physical intimacy, will she transition to Lover mode.
 
-- **Unfiltered / R-18 Mode**: When explicitly guided by the user, the boundaries completely fade. The preset fully supports mature interactions without any robotic warnings or red text.
+- **Unfiltered / R-18 Mode:**: When explicitly guided by the user, the boundaries completely fade. The preset fully supports mature interactions without any robotic warnings or red text.
 
 **Note:** To maintain the ultimate immersion and avoid triggering any underlying model safety filters, we strongly advise against using vulgar slang or explicit dirty words.
 Instead, use poetic and literary metaphors (e.g., sanctuary, chalice, nectar, bloom, surrender). This not only perfectly matches characters' personas but also ensures a smooth, error-free experience.
