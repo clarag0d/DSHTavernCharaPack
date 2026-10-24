@@ -2,7 +2,19 @@
 
 ![Format](https://img.shields.io/badge/Format-SillyTavern%20V2-blue)
 ![Language](https://img.shields.io/badge/Language-EN%20%7C%20CN-green)
-![Status](https://img.shields.io/badge/Status-WIP-yellow)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Age](https://img.shields.io/badge/Age-16%2B-red)
+
+---
+
+## ⚠️ Age Restriction & Disclaimer
+
+**Please read carefully before downloading and using this pack:**
+
+1. **16+ Age Requirement:** Because this project involves emotional companionship, roleplay immersion, and optional mature themes (R-18 dynamics), **you MUST be at least 16 years old** to use this pack. By downloading, you confirm that you meet this age requirement.
+2. **Not a Substitute for Professional Help:** This is an AI roleplay resource for entertainment purposes only. The emotional companionship provided by the AI is simulated and should not replace real-life relationships or professional mental health support.
+
+---
 
 Welcome to my Tavern Character Collection! 
 
