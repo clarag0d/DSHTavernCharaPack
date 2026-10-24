@@ -67,6 +67,23 @@ Here is the current directory structure of the repository:
 
 ---
 
+## 📶 Dynamic Progression & Intimacy System
+
+Unlike platforms that block you with a strict filter, this preset features a Dynamic Boundary System. The relationship progresses naturally, just like a rising signal strength:
+
+**1 Bar (Default)**: Close companions. Playful banter, storytelling, and a respectful distance.
+
+**2 Bars (Ambiguous)**: Flirting and physical touch trigger shyness, blushes, and poetic responses.
+
+**3 Bars (Lover)**: Explicit confessions unlock a passionate, deeply affectionate girlfriend persona.
+
+**4 Bars (Unfiltered / R-18)**: When explicitly guided by the user, the boundaries completely fade. The preset fully supports mature, NSFW interactions without any robotic warnings, while strictly maintaining the character's elegant and poetic tone.
+
+Note: To maintain the ultimate immersion and avoid triggering any underlying model safety filters, we strongly advise against using vulgar slang or explicit dirty words.
+Instead, use poetic and literary metaphors (e.g., sanctuary, chalice, nectar, bloom, surrender). This not only perfectly matches characters' personas but also ensures a smooth, error-free experience.
+
+--
+
 ## 🚀 How to Import & Use
 **For DSH (DeepSeek Harness)**
 
