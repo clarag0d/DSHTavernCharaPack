@@ -30,7 +30,7 @@ This repository contains meticulously crafted AI Roleplay (Tavern/DSH) resource 
 
 ## 📚 Character List & Availability
 
-Here are the currently available character packs. Please check the folders for the specific editions.
+Here are the currently available character packs.
 
 | Character | Game | Language | Status |
 | :--- | :--- | :--- | :--- |
@@ -101,7 +101,7 @@ Instead, use poetic and literary metaphors (e.g., sanctuary, chalice, nectar, bl
 
 **For DSH (DeepSeek Harness)**
 
-1. Open the client and go to the Tavern / Plugin Management interface.
+1. Open the client and go to the Tavern interface.
 
 2. Import Character Card / World Info / Preset: Click the plugin button, click the corresponding option, click "Import JSON", navigate to the character folder (e.g. `D:\translation-cn\Cyrene`), import the `chara.json` to Character Card / the `worldBook.json` to World Book / the `preset.json` to Preset.
 
@@ -120,7 +120,7 @@ Instead, use poetic and literary metaphors (e.g., sanctuary, chalice, nectar, bl
 ## ⚠️ Notes & Recommendations
 RP Mode: If you are using DSH, it is highly recommended to enable RP Mode (High-Risk Lockdown) to prevent prompt injections.
 
-Temperature: A setting between 0.6 - 0.8 is recommended for these characters to avoid overly flowery or AI-like responses.
+Temperature: A setting between `0.6 - 0.8` is recommended for these characters to avoid overly flowery or AI-like responses.
 
 Character Isolation: The World Books and Presets are specifically tailored for each character. Please use them in separate chat sessions.
 
