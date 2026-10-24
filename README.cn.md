@@ -46,9 +46,9 @@
 📦 Tavern-Character-Collection
  ┣ 📂 translation-cn
  ┃ ┗ 📂 Cyrene
- ┃   ┣ 📜 cyreneChara.json       # Character Card
- ┃   ┣ 📜 cyrenePreset.json      # Preset
- ┃   ┗ 📜 cyreneWorldBook.json   # World Info / Lorebook
+ ┃   ┣ 📜 cyreneChara.json       # 角色卡
+ ┃   ┣ 📜 cyrenePreset.json      # 预设
+ ┃   ┗ 📜 cyreneWorldBook.json   # 世界书
  ┣ 📂 translation-en
  ┃ ┣ 📂 Cyrene
  ┃ ┃ ┣ 📜 cyreneChara.json
