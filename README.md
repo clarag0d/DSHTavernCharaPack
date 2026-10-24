@@ -133,7 +133,7 @@ When submitting, please include a screenshot of the problem (if possible) and sp
 
 ---
 
-## 📜 Credits & Disclaimer
+## 📜 Credits & Copyright
 Characters: Honkai Impact 3rd & Honkai: Star Rail © miHoYo / COGNOSPHERE.
 
 Disclaimer: This resource pack is for personal study, exchange, and AI roleplay purposes only. Commercial use is strictly prohibited. All character rights belong to miHoYo.
