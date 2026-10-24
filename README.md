@@ -109,7 +109,7 @@ Instead, use poetic and literary metaphors (e.g., sanctuary, chalice, nectar, bl
 
 **For SillyTavern**
 
-1. Go to Character Card (top menu) -> Import Character to upload the character card.
+1. Go to Character Card (top menu) -> Import to upload the character card.
 
 2. Go to World Info -> Import to upload the lorebook, and bind it to the character.
 
