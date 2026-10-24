@@ -69,29 +69,31 @@ Here is the current directory structure of the repository:
 
 ## ✨ Features
 
-🌍 Bilingual Support: Provided in both Chinese (translation-cn) and English (translation-en).
+- 🌍 Bilingual Support: Provided in both Chinese (translation-cn) and English (translation-en).
 
-🎭 Strict Anti-OOC: Custom presets enforce speaking styles, prevent over-use of punctuation (like ♪), and strictly ban AI-like narration (no parentheses for actions).
+- 🎭 Strict Anti-OOC: Custom presets enforce speaking styles, prevent over-use of punctuation (like ♪), and strictly ban AI-like narration (no parentheses for actions).
 
-📚 Dedicated World Info: Background lore is precisely injected only when keywords are triggered.
+- 📚 Dedicated World Info: Background lore is precisely injected only when keywords are triggered.
 
-📦 Plug & Play: Ready to use out-of-the-box with DSH (DeepSeek Harness) and SillyTavern.
+- 📦 Plug & Play: Ready to use out-of-the-box with DSH (DeepSeek Harness) and SillyTavern.
+
+- 🛡️ Dynamic Boundary Lock: Defaults to a safe PG-13 companion. No forced romance. You control the pacing.
+
+- 💸 Highly Cost-Effective: With DeepSeek API, you can chat for months for the price of a single month's subscription on other platforms (like c.ai).
 
 ---
 
 ## 📶 Dynamic Progression & Intimacy System
 
-Unlike platforms that block you with a strict filter, this preset features a Dynamic Boundary System. The relationship progresses naturally, just like a rising signal strength:
+Unlike platforms that block you with a strict filter, this preset features a Dynamic Boundary System.
 
-**1 Bar (Default)**: Close companions. Playful banter, storytelling, and a respectful distance.
+- **Default State (PG-13)**: The character acts as a respectful, platonic companion. She will NOT initiate romance or mature scenarios on her own. (Fully safe for SFW or underage users).
 
-**2 Bars (Ambiguous)**: Flirting and physical touch trigger shyness, blushes, and poetic responses.
+- **Escalation Trigger**: ONLY when the user explicitly flirts, confesses, or initiates physical intimacy, will she transition to Lover mode.
 
-**3 Bars (Lover)**: Explicit confessions unlock a passionate, deeply affectionate girlfriend persona.
+- **Unfiltered / R-18 Mode**: When explicitly guided by the user, the boundaries completely fade. The preset fully supports mature interactions without any robotic warnings or red text.
 
-**4 Bars (Unfiltered / R-18)**: When explicitly guided by the user, the boundaries completely fade. The preset fully supports mature, NSFW interactions without any robotic warnings, while strictly maintaining the character's elegant and poetic tone.
-
-Note: To maintain the ultimate immersion and avoid triggering any underlying model safety filters, we strongly advise against using vulgar slang or explicit dirty words.
+**Note**: To maintain the ultimate immersion and avoid triggering any underlying model safety filters, we strongly advise against using vulgar slang or explicit dirty words.
 Instead, use poetic and literary metaphors (e.g., sanctuary, chalice, nectar, bloom, surrender). This not only perfectly matches characters' personas but also ensures a smooth, error-free experience.
 
 --
@@ -138,9 +140,9 @@ When submitting, please include a screenshot of the problem (if possible) and sp
 ---
 
 ## 📜 Credits & Disclaimer
-Characters: Honkai Impact 3rd & Honkai: Star Rail © miHoYo / HoYoverse.
+Characters: Honkai Impact 3rd & Honkai: Star Rail © COGNOSPHERE.
 
-Disclaimer: This resource pack is for personal study, exchange, and AI roleplay purposes only. Commercial use is strictly prohibited. All character rights belong to miHoYo / HoYoverse.
+Disclaimer: This resource pack is for personal study, exchange, and AI roleplay purposes only. Commercial use is strictly prohibited. All character rights belong to COGNOSPHERE.
 
 ---
 
