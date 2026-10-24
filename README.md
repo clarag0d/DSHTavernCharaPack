@@ -103,19 +103,13 @@ Instead, use poetic and literary metaphors (e.g., sanctuary, chalice, nectar, bl
 
 1. Open the client and go to the Tavern / Plugin Management interface.
 
-2. Navigate to the character folder you want to play (e.g., translation-en/Cyrene/generalEdition/).
+2. Import Character Card / World Info / Preset: Click the plugin button, click the corresponding option, click "Import JSON", navigate to the character folder (e.g. `D:\translation-cn\Cyrene`), import the `chara.json` to Character Card / the `worldBook.json` to World Book / the `preset.json` to Preset.
 
-3. Import Character: Drag the chara.json into the "Character Card" area.
-
-4. Import World Info: Drag the worldBook.json into the "World Info" area.
-
-5. Import Preset: Drag the preset.json into the "Preset" area.
-
-6. Click "Save and Inject" and start a new Roleplay session.
+3. Start a new session, and bind the items you imported to the session.
 
 **For SillyTavern**
 
-1. Go to Characters (top menu) -> Import Character to upload the character card.
+1. Go to Character Card (top menu) -> Import Character to upload the character card.
 
 2. Go to World Info -> Import to upload the lorebook, and bind it to the character.
 
