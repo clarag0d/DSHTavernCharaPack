@@ -11,7 +11,7 @@
 
 **Please read carefully before downloading and using this pack:**
 
-1. **16+ Age Requirement:** Because this project involves emotional companionship, roleplay immersion, and optional mature themes (R-18 dynamics), **you MUST be at least 16 years old** to use this pack. By downloading, you confirm that you meet this age requirement.
+1. **16+ Age Requirement:** Because this project involves emotional companionship, roleplay immersion, and optional mature themes, **you MUST be at least 16 years old** to use this pack. By downloading, you confirm that you meet this age requirement.
 2. **Not a Substitute for Professional Help:** This is an AI roleplay resource for entertainment purposes only. The emotional companionship provided by the AI is simulated and should not replace real-life relationships or professional mental health support.
 
 ---
