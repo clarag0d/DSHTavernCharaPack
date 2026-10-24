@@ -32,10 +32,10 @@ This repository contains meticulously crafted AI Roleplay (Tavern/DSH) resource 
 
 Here are the currently available character packs. Please check the folders for the specific editions.
 
-| Character | Game | Edition | Language | Status |
-| :--- | :--- | :--- | :--- | :--- |
-| **Cyrene** | Honkai: Star Rail | General Edition | EN / CN | ✅ Completed |
-| **Elysia** | Honkai Impact 3rd | General Edition | EN | ✅ Completed |
+| Character | Game | Language | Status |
+| :--- | :--- | :--- | :--- |
+| **Cyrene** | Honkai: Star Rail | EN / CN | ✅ Completed |
+| **Elysia** | Honkai Impact 3rd | EN | ✅ Completed |
 
 ---
 
