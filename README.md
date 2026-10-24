@@ -23,8 +23,7 @@ Here are the currently available character packs. Please check the folders for t
 | Character | Game | Edition | Language | Status |
 | :--- | :--- | :--- | :--- | :--- |
 | **Cyrene** | Honkai: Star Rail | General Edition | EN / CN | ✅ Completed |
-| **Elysia** | Honkai Impact 3rd | GF Special Edition | EN | ✅ Completed |
-| **Elysia** | Honkai Impact 3rd | General Edition | EN | 🚧 WIP (Character Card only) |
+| **Elysia** | Honkai Impact 3rd | General Edition | EN | ✅ Completed |
 
 ---
 
@@ -47,10 +46,8 @@ Here is the current directory structure of the repository:
  ┃ ┃   ┣ 📜 cyrenePreset.json
  ┃ ┃   ┗ 📜 cyreneWorldBook.json
  ┃ ┗ 📂 Elysia
- ┃   ┣ 📂 generalEdition
- ┃   ┃ ┗ 📜 elysiaChara.json      # 🚧 WIP (Preset & WorldBook coming soon)
- ┃   ┗ 📂 gfSplEdition
- ┃     ┣ 📜 elysiaChara.json      # Girlfriend Edition Card
+ ┃   ┗ 📂 generalEdition
+ ┃     ┣ 📜 elysiaChara.json
  ┃     ┣ 📜 elysiaPreset.json
  ┃     ┗ 📜 elysiaWorldBook.json
  ┗ 📜 README.md
