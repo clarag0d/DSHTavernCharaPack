@@ -97,7 +97,7 @@
 
 ## 🚀 如何导入与使用
 
-**注意：** 使用前需安装必要的应用程序，推荐使用 **DSH Desktop**。下载及安装步骤请参考：https://cdn.discordapp.com/attachments/894586901154119723/1563410136326742056/image.png?ex=6add86a7&is=6adc3527&hm=1898226710dd799a89574bce033d3022d5e1916692b39c68d49c4f8d5eaf1616&
+**注意：** 使用前需安装必要的前置应用程序，推荐使用 **DSH Desktop**。下载及安装步骤请参考：https://cdn.discordapp.com/attachments/894586901154119723/1563410136326742056/image.png?ex=6add86a7&is=6adc3527&hm=1898226710dd799a89574bce033d3022d5e1916692b39c68d49c4f8d5eaf1616&
 
 **DSH (DeepSeek Harness) 操作步骤**
 
