@@ -24,7 +24,7 @@ This repository contains meticulously crafted AI Roleplay (Tavern/DSH) resource 
 
 ## 🤖 AI Usage
 
-Minor Use
+**Minor Use**: AI tools were used for minor assistance in this project (e.g., code formatting, basic JSON structuring, and README draft generation). However, the core character design, personality prompts, dynamic boundary logic, and dialogue examples were meticulously handcrafted and iterated by the human author, and the original AI output was deeply modified artificially.
 
 ---
 
