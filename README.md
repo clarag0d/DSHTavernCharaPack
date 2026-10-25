@@ -43,7 +43,7 @@ Here are the currently available character packs:
 Here is the current directory structure of the repository:
 
 ```text
-📦 Tavern-Character-Collection
+📦 DSHTavernCharaPack
  ┣ 📂 translation-cn
  ┃ ┗ 📂 Cyrene
  ┃   ┣ 📜 cyreneChara.json       # Character Card
