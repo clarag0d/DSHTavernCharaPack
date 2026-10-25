@@ -43,7 +43,7 @@
 以下是该仓库当前的目录结构：
 
 ```text
-📦 Tavern-Character-Collection
+📦 DSHTavernCharaPack
  ┣ 📂 translation-cn
  ┃ ┗ 📂 Cyrene
  ┃   ┣ 📜 cyreneChara.json       # 角色卡
