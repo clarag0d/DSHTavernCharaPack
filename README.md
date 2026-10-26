@@ -1,5 +1,10 @@
 # DSHTavernCharaPack
 
+
+**[English](README.md) | [中文](README.cn.md)**
+
+---
+
 ![Format](https://img.shields.io/badge/Format-SillyTavern%20V2-blue)
 ![Language](https://img.shields.io/badge/Language-EN%20%7C%20CN-green)
 ![Age](https://img.shields.io/badge/Age-16%2B-orange)
@@ -44,11 +49,14 @@ Here is the current directory structure of the repository:
 
 ```text
 📦 DSHTavernCharaPack
+ ┣ 📂 global-world-book
+ ┃ ┣ 📜 amphoreus-cn.json       # Amphoreus General Worldbook (CN)
+ ┃ ┗ 📜 amphoreus-en.json       # Amphoreus General Worldbook (EN)
  ┣ 📂 translation-cn
  ┃ ┗ 📂 Cyrene
- ┃   ┣ 📜 cyreneChara.json       # Character Card
- ┃   ┣ 📜 cyrenePreset.json      # Preset
- ┃   ┗ 📜 cyreneWorldBook.json   # World Info / Lorebook
+ ┃   ┣ 📜 cyreneChara.json      # Character Card
+ ┃   ┣ 📜 cyrenePreset.json     # Preset
+ ┃   ┗ 📜 cyreneWorldBook.json  # World Info
  ┣ 📂 translation-en
  ┃ ┣ 📂 Cyrene
  ┃ ┃ ┣ 📜 cyreneChara.json
@@ -58,8 +66,9 @@ Here is the current directory structure of the repository:
  ┃   ┣ 📜 elysiaChara.json
  ┃   ┣ 📜 elysiaPreset.json
  ┃   ┗ 📜 elysiaWorldBook.json
- ┗ 📜 README.md
-
+ ┣ 📜 .gitattributes            # Force JSON language display
+ ┣ 📜 README.cn.md              # Chinese README
+ ┗ 📜 README.md                 # English README (this file)
 ```
 ---
 
@@ -96,13 +105,21 @@ Instead, use poetic and literary metaphors (e.g., sanctuary, chalice, nectar, bl
 
 ## 🚀 How to Import & Use
 
-**Note:** Before using, you need prerequisite applications. **DSH Desktop** is recommended. Here are the download and installation steps: https://cdn.discordapp.com/attachments/894586901154119723/1563410136326742056/image.png?ex=6add86a7&is=6adc3527&hm=1898226710dd799a89574bce033d3022d5e1916692b39c68d49c4f8d5eaf1616&
+**Note 1:** Before using, you need prerequisite applications. **DSH Desktop** is recommended. Here are the download and installation steps: 
+
+1. Visit the official DSH Desktop website (www.dshdesktop.com) to download the client.
+
+2. Open the client, go to the plugins section, click "Add plugin," enter `pmp-dsh-tavern`, and install the plugin.
+
+3. Open the settings, select a model to edit, enter the API key you obtained from platform.deepseek.com into the input field, and save your changes.
+
+**Note 2:** It is highly recommended to import the related global world book (e.g., amphoreus-en.json), which provides the character with the complete background lore, world-building, and character relationships for the specific region.
 
 **For DSH (DeepSeek Harness)**
 
 1. Open the client and go to the Tavern interface.
 
-2. Import Character Card / World Info / Preset: Click the plugin button, click the corresponding option, click "Import JSON", navigate to the character folder (e.g. `D:\translation-cn\Cyrene`), import the `chara.json` to Character Card / the `worldBook.json` to World Book / the `preset.json` to Preset.
+2. Import Character Card / World Info / Preset: Click the plugin button, click the corresponding option, click "Import JSON", navigate to the character folder (e.g., `D:\translation-cn\Cyrene`), import the `chara.json` to Character Card / the `worldBook.json` to World Book / the `preset.json` to Preset.
 
 3. Start a new session, and bind the items you imported to the session.
 
