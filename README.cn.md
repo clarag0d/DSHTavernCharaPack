@@ -104,7 +104,13 @@
 
 ## 🚀 如何导入与使用
 
-**注 1：** 使用前需安装必要的前置应用程序，推荐使用 **DSH Desktop**。下载及安装步骤请参考：https://cdn.discordapp.com/attachments/894586901154119723/1563410136326742056/image.png?ex=6add86a7&is=6adc3527&hm=1898226710dd799a89574bce033d3022d5e1916692b39c68d49c4f8d5eaf1616&
+**注 1：** 使用前需安装必要的前置应用程序，推荐使用 **DSH Desktop**。下载及安装步骤：
+
+1. 前往 DSH Desktop 官方网站 (www.dshdesktop.com) 获取客户端。
+
+2. 打开客户端，选择插件，点击添加插件，输入 `pmp-dsh-tavern`，安装插件。
+
+3. 打开设置，选择模型并编辑，在输入框内输入你在 platform.deepseek.com 获取的 API Key，保存。
 
 **注 2：** 强烈建议导入相关全局世界设定集（例：amphoreus-en.json）。这能让角色全面理解角色相关地区完整的背景、世界观以及角色间的人际关系。
 
