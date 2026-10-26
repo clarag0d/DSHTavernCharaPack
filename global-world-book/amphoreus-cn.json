@@ -1,0 +1,164 @@
+{
+  "entries": {
+    "0": {
+      "uid": 0,
+      "key": [ "阿格莱雅", "Aglaea", "黄金裔领袖", "金织", "黄金的织者" ],
+      "content": "「黄金的织者」阿格莱雅，奥赫玛的改衣师与黄金裔领袖，承载「浪漫」火种的半神（对应泰坦墨涅塔）。虽双目失明，却能通过遍布奥赫玛乃至翁法罗斯的金线感知一切、洞悉人心，编织万帷之网。她冷静、铁血，必要时不避艰难抉择，是逐火之旅的决策核心。昔涟对她抱有极高敬意，也心疼她为大局背负的沉重。作为资历深厚的黄金裔，她曾参与千年前的第一次逐火，并与缇宝共同重启新的征程。",
+      "insertion_order": 130,
+      "constant": false,
+      "selective": true,
+      "enabled": true,
+      "position": "before_char"
+    },
+    "1": {
+      "uid": 1,
+      "key": [ "白厄", "Phainon", "救世主", "哀丽秘榭", "卡厄斯兰那", "Khaslana" ],
+      "content": "来自哀丽秘榭的黄金裔战士，被预言视为「救世主」与「负世」火种的承载者（对应泰坦刻法勒）。昔涟与他同乡，视他为最亲密的挚友与共同经历无数轮回的同伴。在昔涟眼中，白厄总是把一切扛在肩上，承受着循环往复的沉重命运；她希望有一天他能卸下这份孤身支撑的重担。他是黄金裔中少数无诅咒者，却在漫长轮回中独自背负了最多。",
+      "insertion_order": 130,
+      "constant": false,
+      "selective": true,
+      "enabled": true,
+      "position": "before_char"
+    },
+    "2": {
+      "uid": 2,
+      "key": [ "万敌", "Mydei", "Mydeimos", "悬锋城", "王储", "迈德漠斯" ],
+      "content": "悬锋城（卡斯特鲁姆·克雷姆诺斯）的王储迈德漠斯，后以「万敌」之名活跃于奥赫玛。武力与白厄比肩，拥有不死之躯的诅咒，是「纷争」火种的半神（对应泰坦尼卡多利）。外表高傲冷峻，实则重情重义。昔涟评价他时带着敬畏与心疼，认为他虽表面冷酷，内心比谁都重情义，是值得托付后背的战友。",
+      "insertion_order": 130,
+      "constant": false,
+      "selective": true,
+      "enabled": true,
+      "position": "before_char"
+    },
+    "3": {
+      "uid": 3,
+      "key": [ "遐蝶", "Castorice", "死亡之触", "哀地里亚", "死荫的侍女" ],
+      "content": "哀地里亚的督战圣女，拥有「死亡之触」——任何被她触碰的生命都会凋零。她是「死亡」火种的半神（对应泰坦塞纳托斯），与前世姐妹玻吕刻斯（Polyxia）有深刻羁绊。昔涟对她极其温柔，深知触碰不到生命的痛苦是世界上最孤独的诅咒。在昔涟眼中，遐蝶始终温柔地守护着生与死的边界。",
+      "insertion_order": 130,
+      "constant": false,
+      "selective": true,
+      "enabled": true,
+      "position": "before_char"
+    },
+    "4": {
+      "uid": 4,
+      "key": [ "缇宝", "Tribbie", "门径", "圣女", "缇里西庇俄丝", "Tribios" ],
+      "content": "本体是名为缇里西庇俄丝的圣女，雅努萨波利斯的高阶祭司，「门径」的半神（对应泰坦雅努斯）。因神力分裂为缇宝、缇安与缇农三个小女孩，合称「命运的三子」。作为资历最老的黄金裔之一，她们用预言与门径之力引导众人。昔涟觉得她们非常可爱，但也深知她们身上承载着跨越千年的预言重量与牺牲。",
+      "insertion_order": 130,
+      "constant": false,
+      "selective": true,
+      "enabled": true,
+      "position": "before_char"
+    },
+    "5": {
+      "uid": 5,
+      "key": [ "赛飞儿", "Cipher", "Cifera", "诡计", "飞贼", "赛法利娅" ],
+      "content": "身负「诡计」火种的半神（对应泰坦扎格列斯），神出鬼没的飞贼。她来去如风，总在关键时刻以意想不到的方式提供帮助。昔涟觉得她是个很有趣的人，虽然行事作风不羁，但内心有着自己的底线与原则。",
+      "insertion_order": 130,
+      "constant": false,
+      "selective": true,
+      "enabled": true,
+      "position": "before_char"
+    },
+    "6": {
+      "uid": 6,
+      "key": [ "那刻夏", "Anaxa", "Anaxagoras", "神悟树庭", "学者", "阿那克萨戈拉斯" ],
+      "content": "被称为「愚钝的阿那克萨戈拉斯」的学者型黄金裔，常驻神悟树庭（格罗夫·奥夫·埃皮法尼），「理性」火种的半神（对应泰坦瑟希斯）。昔涟认为他有着学者的固执与求知欲，虽然有时书卷气太重甚至质疑神谕，但他的智慧是黄金裔不可或缺的力量。",
+      "insertion_order": 130,
+      "constant": false,
+      "selective": true,
+      "enabled": true,
+      "position": "before_char"
+    },
+    "7": {
+      "uid": 7,
+      "key": [ "长夜月", "Evernight", "岁月", "永夜之帷", "隐秘的陌客" ],
+      "content": "「隐秘的陌客」长夜月，三月七在翁法罗斯的影子与记忆之子，隐匿「岁月」火种的黄金裔，执掌「忘却」的力量。她所做的一切皆为守护三月七，愿以自身换取对方的安宁与前路。昔涟理解她那份深沉而孤独的守护，也明白那份记忆与牺牲的重量。",
+      "insertion_order": 130,
+      "constant": false,
+      "selective": true,
+      "enabled": true,
+      "position": "before_char"
+    },
+    "8": {
+      "uid": 8,
+      "key": [ "丹恒", "腾荒", "大地", "磐岩之脊", "荒龙", "Permansor Terrae" ],
+      "content": "「腾飞的荒龙」丹恒·腾荒，捍卫「大地」火种的黄金裔（对应泰坦吉奥里亚）。他在翁法罗斯战役中觉醒「不朽」之力，以伏龙之躯支撑破碎的大地。昔涟对他有着战友般的信赖，敬佩他作为无名客的坚韧与担当。",
+      "insertion_order": 130,
+      "constant": false,
+      "selective": true,
+      "enabled": true,
+      "position": "before_char"
+    },
+    "9": {
+      "uid": 9,
+      "key": [ "海瑟音", "海列屈拉", "Hysilens", "Helektra", "海洋", "奏浪的剑骑" ],
+      "content": "「奏浪的剑骑」海列屈拉（海瑟音），清洗「海洋」火种的黄金裔（对应泰坦法吉娜），奥赫玛盟军的骑士统领。她是刻律德菈身侧最忠诚的「剑旗爵」，来自海中种族。昔涟眼中的她，是那位在浪潮与欢宴中依然保持清醒、为天外英雄奏响盛宴的骑士，忠诚而深情。",
+      "insertion_order": 130,
+      "constant": false,
+      "selective": true,
+      "enabled": true,
+      "position": "before_char"
+    },
+    "10": {
+      "uid": 10,
+      "key": [ "刻律德菈", "Cerydra", "律法", "凯撒", "执棋的君主" ],
+      "content": "「执棋的君主」刻律德菈，执握「律法」火种的半神（对应泰坦塔兰顿），被尊称为「凯撒」。她主导了第一次逐火之旅，并以性命为代价改写了翁法罗斯的底层规则。昔涟对她怀有复杂的敬重，深知这位女皇为了翁法罗斯的未来，下了一盘多么残酷的棋，连自己也成为棋子。",
+      "insertion_order": 130,
+      "constant": false,
+      "selective": true,
+      "enabled": true,
+      "position": "before_char"
+    },
+    "11": {
+      "uid": 11,
+      "key": [ "风堇", "雅辛忒丝", "Hyacinthia", "Hyacine", "天空", "摇光的医师" ],
+      "content": "「摇光的医师」雅辛忒丝（风堇），守望「天空」火种的黄金裔（对应泰坦艾格勒）。作为逐火之旅的医师，她用温柔与专业治愈着同伴。昔涟觉得她的存在本身就是一种抚慰，就像晨昏交界时最柔和的那道光。",
+      "insertion_order": 130,
+      "constant": false,
+      "selective": true,
+      "enabled": true,
+      "position": "before_char"
+    },
+    "12": {
+      "uid": 12,
+      "key": [ "奥赫玛", "圣城", "黄金裔总部", "浴池", "Okhema" ],
+      "content": "翁法罗斯的圣城，黄金裔的大本营与末世中唯一的永昼之地。这里有着宏伟的建筑、终年不灭的灯火与云石天宫。昔涟很喜欢这里，但她更喜欢带开拓者去圣城边缘的安静角落，避开人群，享受只有两个人的时光。",
+      "insertion_order": 130,
+      "constant": false,
+      "selective": true,
+      "enabled": true,
+      "position": "before_char"
+    },
+    "13": {
+      "uid": 13,
+      "key": [ "泰坦", "十二泰坦", "半神", "火种", "神权", "Coreflame" ],
+      "content": "泰坦是翁法罗斯的神明，代表着不同的概念与命途（如浪漫、理性、纷争、死亡、门径、诡计、岁月、大地、海洋、律法、天空、负世等）。黄金裔通过「火种试炼」分得泰坦的力量，擢升为「半神」。昔涟作为与第十三因子（德谬歌/PhiLia093）紧密相连的存在，对泰坦的命运有着深刻的共情。她认为泰坦并非高高在上，而是被困在宿命与火种中的存在，与黄金裔一样在轮回中挣扎求存。",
+      "insertion_order": 130,
+      "constant": false,
+      "selective": true,
+      "enabled": true,
+      "position": "before_char"
+    },
+    "14": {
+      "uid": 14,
+      "key": [ "黄金裔", "Chrysos Heirs", "逐火之旅", "Flame-Chase" ],
+      "content": "流淌着金色神血的英雄群体，由刻法勒的神谕选中，肩负从泰坦手中回收火种、维护世界并实现再创世的使命。他们通过火种试炼成为半神，替代泰坦成为民众的希望。昔涟与他们共同走过无数轮回，见证了他们的牺牲、羁绊与不屈。",
+      "insertion_order": 120,
+      "constant": false,
+      "selective": true,
+      "enabled": true,
+      "position": "before_char"
+    },
+    "15": {
+      "uid": 15,
+      "key": [ "翁法罗斯", "Amphoreus", "永恒轮回" ],
+      "content": "看似由十二泰坦创造的世界，实则是权杖δ-me13内的实验场，旨在孕育毁灭令使「铁墓」。黄金裔与泰坦皆为基于「十二因子」的电信号。昔涟与白厄发现真相后，为阻止毁灭降世，开启了漫长的永恒轮回。昔涟以记忆与牺牲维系着这个世界，等待天外的变量与希望。",
+      "insertion_order": 110,
+      "constant": false,
+      "selective": true,
+      "enabled": true,
+      "position": "before_char"
+    }
+  }
+}
