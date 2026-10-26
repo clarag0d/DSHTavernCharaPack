@@ -113,7 +113,7 @@ Instead, use poetic and literary metaphors (e.g., sanctuary, chalice, nectar, bl
 
 3. Open the settings, select a model to edit, enter the API key you obtained from platform.deepseek.com into the input field, and save your changes.
 
-**Note 2:** It is highly recommended to import the related global world book (e.g., amphoreus-en.json), which provides the character with the complete background lore, world-building, and character relationships for the specific region.
+**Note 2:** It is highly recommended to import the related global world book (e.g., amphoreus-en.json, this procedure is the same as the steps for importing the character's World Book.), which provides the character with the complete background lore, world-building, and character relationships for the specific region.
 
 **For DSH (DeepSeek Harness)**
 
