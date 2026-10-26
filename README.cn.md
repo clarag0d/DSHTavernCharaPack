@@ -66,8 +66,8 @@
  ┃   ┣ 📜 elysiaPreset.json
  ┃   ┗ 📜 elysiaWorldBook.json
  ┣ 📜 .gitattributes            # Force JSON language display
- ┣ 📜 README.cn.md              # Chinese README
- ┗ 📜 README.md                 # English README (this file)
+ ┣ 📜 README.cn.md              # Chinese README (this file)
+ ┗ 📜 README.md                 # English README
 ```
 ---
 
