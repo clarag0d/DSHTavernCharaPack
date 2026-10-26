@@ -118,7 +118,7 @@
 
 1. 打开客户端，进入“酒馆 (Tavern)”界面。
 
-2. 导入角色卡 (Character Card) / 世界信息 (World Info) / 预设 (Preset)：点击插件按钮，选择相应选项，点击“导入 JSON (Import JSON)”，找到对应的角色文件夹（例：`D:\translation-cn\Cyrene`），将 `chara.json` 导入至“角色卡”，将 `worldBook.json` 导入至“世界信息”，将 `preset.json` 导入至“预设”。
+2. 导入角色卡 (Character Card) / 世界信息 (World Book) / 预设 (Preset)：点击插件按钮，选择相应选项，点击“导入 JSON (Import JSON)”，找到对应的角色文件夹（例：`D:\translation-cn\Cyrene`），将 `chara.json` 导入至“角色卡”，将 `worldBook.json` 导入至“世界信息”，将 `preset.json` 导入至“预设”。
 
 3. 开启新会话，并将导入的内容绑定至该会话中。
 
