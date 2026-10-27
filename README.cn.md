@@ -49,13 +49,13 @@
 ```text
 📦 DSHTavernCharaPack
  ┣ 📂 global-world-book
- ┃ ┣ 📜 amphoreus-cn.json       # Amphoreus General Worldbook (CN)
- ┃ ┗ 📜 amphoreus-en.json       # Amphoreus General Worldbook (EN)
+ ┃ ┣ 📜 amphoreus-cn.json       # 翁法罗斯世界书 (中文)
+ ┃ ┗ 📜 amphoreus-en.json       # 翁法罗斯世界书 (英文)
  ┣ 📂 translation-cn
  ┃ ┗ 📂 Cyrene
- ┃   ┣ 📜 cyreneChara.json      # Character Card
- ┃   ┣ 📜 cyrenePreset.json     # Preset
- ┃   ┗ 📜 cyreneWorldBook.json  # World Info
+ ┃   ┣ 📜 cyreneChara.json      # 角色卡
+ ┃   ┣ 📜 cyrenePreset.json     # 预设
+ ┃   ┗ 📜 cyreneWorldBook.json  # 世界信息
  ┣ 📂 translation-en
  ┃ ┣ 📂 Cyrene
  ┃ ┃ ┣ 📜 cyreneChara.json
@@ -65,9 +65,9 @@
  ┃   ┣ 📜 elysiaChara.json
  ┃   ┣ 📜 elysiaPreset.json
  ┃   ┗ 📜 elysiaWorldBook.json
- ┣ 📜 .gitattributes            # Force JSON language display
- ┣ 📜 README.cn.md              # Chinese README (this file)
- ┗ 📜 README.md                 # English README
+ ┣ 📜 .gitattributes            # 强制 JSON 语言显示
+ ┣ 📜 README.cn.md              # 中文 README (此文件)
+ ┗ 📜 README.md                 # 英文 README
 ```
 ---
 
