@@ -39,7 +39,8 @@ Here are the currently available character packs:
 | Character | Game | Language | Status |
 | :--- | :--- | :--- | :--- |
 | **Cyrene** | Honkai: Star Rail | EN / CN | ✅ Completed |
-| **Elysia** | Honkai Impact 3rd | EN | ✅ Completed |
+| **Elysia** | Honkai Impact 3rd | CN | ✅ Completed |
+| **Elysia** | Honkai Impact 3rd | EN | 🚧 WIP (Updating) |
 
 ---
 
@@ -53,10 +54,14 @@ Here is the current directory structure of the repository:
  ┃ ┣ 📜 amphoreus-cn.json       # Amphoreus General Worldbook (CN)
  ┃ ┗ 📜 amphoreus-en.json       # Amphoreus General Worldbook (EN)
  ┣ 📂 translation-cn
- ┃ ┗ 📂 Cyrene
- ┃   ┣ 📜 cyreneChara.json      # Character Card
- ┃   ┣ 📜 cyrenePreset.json     # Preset
- ┃   ┗ 📜 cyreneWorldBook.json  # World Info
+ ┃ ┣ 📂 Cyrene
+ ┃ ┃ ┣ 📜 cyreneChara.json      # Character Card
+ ┃ ┃ ┣ 📜 cyrenePreset.json     # Preset
+ ┃ ┃ ┗ 📜 cyreneWorldBook.json  # World Info
+ ┃ ┗ 📂 Elysia
+ ┃   ┣ 📜 elysiaChara.json
+ ┃   ┣ 📜 elysiaPreset.json
+ ┃   ┗ 📜 elysiaWorldBook.json
  ┣ 📂 translation-en
  ┃ ┣ 📂 Cyrene
  ┃ ┃ ┣ 📜 cyreneChara.json
