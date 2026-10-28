@@ -31,14 +31,15 @@
 
 ---
 
-## 📚 角色列表与可用资源
+## 📚 角色列表与状态
 
-以下是目前可用的角色资源包：
+当前可用的角色包如下，请前往对应的文件夹获取：
 
-| 角色 | 游戏 | 语言 | 状态 |
+| 角色 | 所属游戏 | 语言 | 进度状态 |
 | :--- | :--- | :--- | :--- |
-| **昔涟** | 崩坏：星穹铁道 | 英文 / 中文 | ✅ 已完成 |
-| **爱莉希雅** | 崩坏3 | 英文 | ✅ 已完成 |
+| **昔涟 (Cyrene)** | 崩坏：星穹铁道 | 中 / 英 | ✅ 已完成 |
+| **爱莉希雅 (Elysia)** | 崩坏3 | 中文 | ✅ 已完成 |
+| **爱莉希雅 (Elysia)** | 崩坏3 | 英文 | 🚧 制作中 (同步更新中) |
 
 ---
 
@@ -52,10 +53,14 @@
  ┃ ┣ 📜 amphoreus-cn.json       # 翁法罗斯世界书 (中文)
  ┃ ┗ 📜 amphoreus-en.json       # 翁法罗斯世界书 (英文)
  ┣ 📂 translation-cn
- ┃ ┗ 📂 Cyrene
- ┃   ┣ 📜 cyreneChara.json      # 角色卡
- ┃   ┣ 📜 cyrenePreset.json     # 预设
- ┃   ┗ 📜 cyreneWorldBook.json  # 世界信息
+ ┃ ┣ 📂 Cyrene
+ ┃ ┃ ┣ 📜 cyreneChara.json      # 角色卡
+ ┃ ┃ ┣ 📜 cyrenePreset.json     # 预设
+ ┃ ┃ ┗ 📜 cyreneWorldBook.json  # 世界信息
+ ┃ ┗ 📂 Elysia
+ ┃   ┣ 📜 elysiaChara.json
+ ┃   ┣ 📜 elysiaPreset.json
+ ┃   ┗ 📜 elysiaWorldBook.json
  ┣ 📂 translation-en
  ┃ ┣ 📂 Cyrene
  ┃ ┃ ┣ 📜 cyreneChara.json
