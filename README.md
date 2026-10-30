@@ -143,7 +143,9 @@ Instead, use poetic and literary metaphors (e.g., sanctuary, chalice, nectar, bl
 
 **Temperature:** A setting between `0.6 - 0.8` is recommended for these characters to avoid overly flowery or AI-like responses.
 
-Character Isolation: The World Books and Presets are specifically tailored for each character. Please use them in separate chat sessions.
+**World Info & Session Isolation (IMPORTANT):** **NEVER** enable the specific World Info of multiple different characters in the same chat session. Always create separate chat sessions for different characters and disable irrelevant global lore entries. Mixing them will cause severe lore conflicts and OOC (Out of Character) issues.
+
+**Dedicated Presets:** Presets are specifically tailored for each character. Do not mix them.
 
 ---
 
