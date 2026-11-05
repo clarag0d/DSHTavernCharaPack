@@ -40,6 +40,7 @@
 | **昔涟 (Cyrene)** | 崩坏：星穹铁道 | 中 / 英 | ✅ 已完成 |
 | **爱莉希雅 (Elysia)** | 崩坏3 | 中文 | ✅ 已完成 |
 | **爱莉希雅 (Elysia)** | 崩坏3 | 英文 | 🚧 制作中 (同步更新中) |
+| **花火 (Sparkle)** | 崩坏：星穹铁道 | 中文 | ✅ 已完成 |
 
 ---
 
@@ -57,10 +58,14 @@
  ┃ ┃ ┣ 📜 cyreneChara.json      # 角色卡
  ┃ ┃ ┣ 📜 cyrenePreset.json     # 预设
  ┃ ┃ ┗ 📜 cyreneWorldBook.json  # 世界信息
- ┃ ┗ 📂 Elysia
- ┃   ┣ 📜 elysiaChara.json
- ┃   ┣ 📜 elysiaPreset.json
- ┃   ┗ 📜 elysiaWorldBook.json
+ ┃ ┣ 📂 Elysia
+ ┃ ┃ ┣ 📜 elysiaChara.json
+ ┃ ┃ ┣ 📜 elysiaPreset.json
+ ┃ ┃ ┗ 📜 elysiaWorldBook.json
+ ┃ ┗ 📂 Sparkle
+ ┃   ┣ 📜 sparkleChara.json
+ ┃   ┣ 📜 sparklePreset.json
+ ┃   ┗ 📜 sparkleWorldBook.json
  ┣ 📂 translation-en
  ┃ ┣ 📂 Cyrene
  ┃ ┃ ┣ 📜 cyreneChara.json
