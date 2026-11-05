@@ -41,6 +41,7 @@ Here are the currently available character packs:
 | **Cyrene** | Honkai: Star Rail | EN / CN | ✅ Completed |
 | **Elysia** | Honkai Impact 3rd | CN | ✅ Completed |
 | **Elysia** | Honkai Impact 3rd | EN | 🚧 WIP (Updating) |
+| **Sparkle** | Honkai: Star Rail | CN | ✅ Completed |
 
 ---
 
@@ -58,10 +59,14 @@ Here is the current directory structure of the repository:
  ┃ ┃ ┣ 📜 cyreneChara.json      # Character Card
  ┃ ┃ ┣ 📜 cyrenePreset.json     # Preset
  ┃ ┃ ┗ 📜 cyreneWorldBook.json  # World Info
- ┃ ┗ 📂 Elysia
- ┃   ┣ 📜 elysiaChara.json
- ┃   ┣ 📜 elysiaPreset.json
- ┃   ┗ 📜 elysiaWorldBook.json
+ ┃ ┣ 📂 Elysia
+ ┃ ┃ ┣ 📜 elysiaChara.json
+ ┃ ┃ ┣ 📜 elysiaPreset.json
+ ┃ ┃ ┗ 📜 elysiaWorldBook.json
+ ┃ ┗ 📂 Sparkle
+ ┃   ┣ 📜 sparkleChara.json
+ ┃   ┣ 📜 sparklePreset.json
+ ┃   ┗ 📜 sparkleWorldBook.json
  ┣ 📂 translation-en
  ┃ ┣ 📂 Cyrene
  ┃ ┃ ┣ 📜 cyreneChara.json
