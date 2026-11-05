@@ -1,3 +1,4 @@
 *.json linguist-detectable=true
 *.json linguist-documentation=false
 *.json linguist-language=JSON
+*.json text eol=lf
