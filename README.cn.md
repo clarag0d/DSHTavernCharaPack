@@ -118,9 +118,9 @@
 
 1. 访问 DeepSeek Harness (https://www.deepseek.com/en/harness) 或 DSH Desktop (https://www.dshdesktop.com) 官方网站，下载桌面应用程序。
 
-2. **(适用于 >=0.2.1-rc.2 且 <0.2.2-0 的版本)** 打开桌面应用程序，进入“插件”，点击“添加插件”，输入 `pmp-dsh-tavern`，然后安装该插件。/ **(适用于 >=0.2.2-rc.1 且 <0.2.3-0 的版本)** 前往 https://github.com/Player-MINEPIG/dsh-tavern/releases，并按照发布说明中的步骤安装插件。
+2. **(适用于 >=0.2.1-rc.2 且 <0.2.2-0 的版本)** 打开桌面应用程序，进入“插件”，点击“添加插件”，输入 `pmp-dsh-tavern`，然后安装该插件。/ **(适用于 >=0.2.2-rc.1 且 <0.2.3-0 的版本)** 前往 https://github.com/Player-MINEPIG/dsh-tavern/releases ，并按照发布说明中的步骤安装插件。
 
-3. 打开设置，选择一个模型并编辑，在输入框中填入您从 https://platform.deepseek.com（或其他平台）获取的 API Key，最后保存更改。
+3. 打开设置，选择一个模型并编辑，在输入框中填入您从 https://platform.deepseek.com （或其他平台）获取的 API Key，最后保存更改。
 
 **注 2：** 强烈建议导入相关全局世界信息文件（例：amphoreus-en.json，操作步骤与导入角色世界信息步骤相同）。这能让角色全面理解角色相关地区完整的背景、世界观以及角色间的人际关系。
 
