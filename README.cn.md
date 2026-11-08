@@ -114,19 +114,19 @@
 
 ## 🚀 如何导入与使用
 
-**注 1：** 使用前需安装必要的前置应用程序，推荐使用 **DSH Desktop**。下载及安装步骤：
+**注 1：** 使用前需安装必要的前置应用程序，推荐使用 **DeepSeek Harness**。下载及安装步骤：
 
-1. 前往 DSH Desktop 官方网站 (www.dshdesktop.com) 获取客户端。
+1. 访问 DeepSeek Harness (https://www.deepseek.com/en/harness) 或 DSH Desktop (https://www.dshdesktop.com) 官方网站，下载桌面应用程序。
 
-2. 打开客户端，选择插件，点击添加插件，输入 `pmp-dsh-tavern`，安装插件。
+2. **(适用于 >=0.2.1-rc.2 且 <0.2.2-0 的版本)** 打开桌面应用程序，进入“插件”，点击“添加插件”，输入 `pmp-dsh-tavern`，然后安装该插件。/ **(适用于 >=0.2.2-rc.1 且 <0.2.3-0 的版本)** 前往 https://github.com/Player-MINEPIG/dsh-tavern/releases，并按照发布说明中的步骤安装插件。
 
-3. 打开设置，选择模型并编辑，在输入框内输入你在 platform.deepseek.com 获取的 API Key，保存。
+3. 打开设置，选择一个模型并编辑，在输入框中填入您从 https://platform.deepseek.com（或其他平台）获取的 API Key，最后保存更改。
 
 **注 2：** 强烈建议导入相关全局世界信息文件（例：amphoreus-en.json，操作步骤与导入角色世界信息步骤相同）。这能让角色全面理解角色相关地区完整的背景、世界观以及角色间的人际关系。
 
 **DSH (DeepSeek Harness) 操作步骤**
 
-1. 打开客户端，进入“酒馆 (Tavern)”界面。
+1. 打开桌面应用程序，进入“酒馆 (Tavern)”界面。
 
 2. 导入角色卡 (Character Card) / 世界信息 (World Book) / 预设 (Preset)：点击插件按钮，选择相应选项，点击“导入 JSON (Import JSON)”，找到对应的角色文件夹（例：`D:\translation-cn\Cyrene`），将 `chara.json` 导入至“角色卡”，将 `worldBook.json` 导入至“世界信息”，将 `preset.json` 导入至“预设”。
 
