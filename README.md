@@ -117,7 +117,7 @@ Instead, use poetic and literary metaphors (e.g., sanctuary, chalice, nectar, bl
 
 **Note 1:** Before using, you need prerequisite applications. **DeepSeek Harness** is recommended. Here are the download and installation steps: 
 
-1. Visit the official DeepSeek Harness (https://www.deepseek.com/en/harness） / DSH Desktop (https://www.dshdesktop.com) website to download the desktop application.
+1. Visit the official DeepSeek Harness (https://www.deepseek.com/en/harness) / DSH Desktop (https://www.dshdesktop.com) website to download the desktop application.
 
 2. **(For >=0.2.1-rc.2 <0.2.2-0)** Open the desktop application, go to the plugins section, click "Add plugin," enter `pmp-dsh-tavern`, and install the plugin. / **(For >=0.2.2-rc.1 <0.2.3-0)** Go to https://github.com/Player-MINEPIG/dsh-tavern/releases, and follow the steps in the release log to install the plugin.
 
