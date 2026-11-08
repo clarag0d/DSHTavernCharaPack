@@ -115,19 +115,19 @@ Instead, use poetic and literary metaphors (e.g., sanctuary, chalice, nectar, bl
 
 ## 🚀 How to Import & Use
 
-**Note 1:** Before using, you need prerequisite applications. **DSH Desktop** is recommended. Here are the download and installation steps: 
+**Note 1:** Before using, you need prerequisite applications. **DeepSeek Harness** is recommended. Here are the download and installation steps: 
 
-1. Visit the official DSH Desktop website (www.dshdesktop.com) to download the client.
+1. Visit the official DeepSeek Harness (https://www.deepseek.com/en/harness） / DSH Desktop (https://www.dshdesktop.com) website to download the desktop application.
 
-2. Open the client, go to the plugins section, click "Add plugin," enter `pmp-dsh-tavern`, and install the plugin.
+2. **(For >=0.2.1-rc.2 <0.2.2-0)** Open the desktop application, go to the plugins section, click "Add plugin," enter `pmp-dsh-tavern`, and install the plugin. / **(For >=0.2.2-rc.1 <0.2.3-0)** Go to https://github.com/Player-MINEPIG/dsh-tavern/releases, and follow the steps in the release log to install the plugin.
 
-3. Open the settings, select a model to edit, enter the API key you obtained from platform.deepseek.com into the input field, and save your changes.
+3. Open the settings, select a model to edit, enter the API key you obtained from https://platform.deepseek.com (or other platforms) into the input field, and save your changes.
 
 **Note 2:** It is highly recommended to import the related global world book (e.g., amphoreus-en.json, this procedure is the same as the steps for importing the character's World Book.), which provides the character with the complete background lore, world-building, and character relationships for the specific region.
 
 **For DSH (DeepSeek Harness)**
 
-1. Open the client and go to the Tavern interface.
+1. Open the desktop application and go to the Tavern interface.
 
 2. Import Character Card / World Info / Preset: Click the plugin button, click the corresponding option, click "Import JSON", navigate to the character folder (e.g., `D:\translation-cn\Cyrene`), import the `chara.json` to Character Card / the `worldBook.json` to World Book / the `preset.json` to Preset.
 
